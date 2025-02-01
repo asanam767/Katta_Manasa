@@ -4,7 +4,7 @@ I'm Katta Manasa, a passionate software engineer and developer.
 
 ## Here's a fun GIF to show my vibe:
 
-![Text Work Sticker](https://media.tenor.com/images/5e62d045b625d8c238bb31c537ae48b6/tenor.gif)
+![Text Work Sticker](https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif)
 
 ---
 
