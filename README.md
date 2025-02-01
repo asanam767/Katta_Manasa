@@ -6,15 +6,14 @@
 
 - 🔭 I’m currently working on - Backend projects using Node.js, Express, and MongoDB.
 - 🌱 I prefer to implement projects using the help of tools like ChatGPT, Claude AI, DeepSeek, Perplexity, etc.
-- 📫 How to reach me: **katta.manasa@example.com**
-- 📄 Know more about my experiences: [Resume Link](https://drive.google.com/file/d/1eAytH7F3Hy-cJZ9bGB-oGnDePsJyPMyC/view?usp=sharing)
+- 📫 How to reach me: **kmanasa0402@gmail.com**
 
 ## 🔗 Links
 <p align="center">
   <a href="https://www.linkedin.com/in/katta-manasa-a43050228/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
   </a>
-  <a href="mailto:katta.manasa@example.com">
+  <a href="mailto:kmanasa0402@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" height="40" style="vertical-align:top; margin:4px">
   </a>
 </p>
