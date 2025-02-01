@@ -10,7 +10,7 @@
 
 ## 🔗 Links
 <p align="center">
- <a href="https://www.linkedin.com/in/katta-manasa/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/katta-manasa-a43050228/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:katta.manasa@example.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 <p>
