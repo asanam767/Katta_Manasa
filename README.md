@@ -1,59 +1,28 @@
-### Hi there, I'm Katta Manasa! 👋🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=katta-manasa&label=Profile%20Views&color=blue&style=flat-square)
-
----
+# Hi, I'm Katta Manasa! 👋 <img align="right" alt="Katta Manasa" width="150px" src="https://media.tenor.com/ZT6JgOoFQyMAAAAC/text-work-computer.gif">
 
 ## 🚀 About Me
-🎓 **3rd-year CSE Student** | 💻 **MERN Stack Developer** | 🌍 **Web Enthusiast**
+- 🎓 3rd Year B.Tech Student
+- 💻 Backend Developer | Working with Node.js, Express, and MongoDB
+- 🏆 Participated in 5 hackathons, winning 1
+- 🌟 Passionate about building scalable backend solutions and optimizing performance
+- 🔢 Solving DSA problems to enhance my problem-solving skills and accelerate my learning
 
-Passionate about **Full-Stack Web Development**, I specialize in building scalable and efficient web applications using **MongoDB, Express.js, React, and Node.js**.  
+## 🛠 Tech Stack
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Other Tools:** Git, Postman, REST APIs
 
-🔭 Currently working on **enhancing my MERN skills and exploring cloud technologies**.  
-🌱 Learning **Next.js and DevOps tools**.  
-📚 Looking for **internship opportunities in full-stack development**.  
-📩 Reach me at **[LinkedIn](https://www.linkedin.com/in/katta-manasa/)**
+## 🚀 Hackathons & Achievements
+- 🎖️ Participated in 5 hackathons
+- 🏅 Won 1 hackathon
 
----
-
-## ⚡ Tech Stack & Tools
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🏆 GitHub Stats & Contributions
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katta-manasa&theme=radical&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=katta-manasa&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katta-manasa&theme=radical" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=katta-manasa&theme=radical&no-bg=true" />
-</p>
-
-<p align="right">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" alt="Girl Coding Animation" />
-</p>
-
----
+## 📊 GitHub Stats
+![Manasa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=katta-manasa&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
+- [LeetCode](https://leetcode.com/katta-manasa)
+- [LinkedIn](https://www.linkedin.com/in/katta-manasa/)
+- [Twitter](https://twitter.com/katta_manasa)
+- [GitHub](https://github.com/katta-manasa)
 
-🌐 [LinkedIn](https://www.linkedin.com/in/katta-manasa/)  
-🐦 [Twitter](https://twitter.com/)  
-📬 [Email](mailto:your-email@example.com)  
-
----
-
-⭐ **If you like my work, consider giving it a star!** ⭐
+Let's build something awesome together! 🚀
