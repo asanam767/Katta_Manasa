@@ -7,7 +7,7 @@
 </p>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=katta-manasa&label=Profile%20views&color=0e75b6&style=flat" alt="katta-manasa" /> 
+  <img src="https://komarev.com/ghpvc/?username=asanam767&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
 ## 👩‍💻 About Me
@@ -18,7 +18,6 @@ I'm a Software Developer passionate about building scalable backend solutions an
 const manasa = {
     code: ["JavaScript", "Node.js", "Express"],
     tools: ["MongoDB", "REST APIs", "Git"],
-    architecture: ["microservices", "MVC", "event-driven"],
     currentFocus: "Building scalable backend solutions",
     funFact: "I believe in using AI tools to enhance productivity, not replace creativity"
 };
@@ -61,20 +60,20 @@ const manasa = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katta-manasa&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asanam767&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katta-manasa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asanam767&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katta-manasa-a43050228/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmanasa0402@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/katta-manasa)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asanam767)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=katta-manasa&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=asanam767&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
