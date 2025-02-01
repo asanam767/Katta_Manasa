@@ -5,65 +5,45 @@
 ---
 
 ## 🚀 About Me
-🎓 **3rd-year CSE Student** | 💻 **ML & Blockchain Enthusiast** | 📡 **Big Data & AI Researcher**
+🎓 **3rd-year CSE Student** | 💻 **MERN Stack Developer** | 🌍 **Web Enthusiast**
 
-Passionate about **AI, ML, Blockchain, and Software Development**, I love building projects that solve real-world problems! I’ve participated in **hackathons**, worked on **research internships**, and developed projects like **EyeHealth, EarthVision, and AI-driven Blockchain marketplaces**.  
+Passionate about **Full-Stack Web Development**, I specialize in building scalable and efficient web applications using **MongoDB, Express.js, React, and Node.js**.  
 
-🔭 Currently working on **AI-driven content detection & blockchain-secured personal data marketplace**.  
-🌱 Exploring **Deep Learning, Cybersecurity, and Web3**.  
-📚 Looking for **research & internship opportunities in AI & Big Data**.  
+🔭 Currently working on **enhancing my MERN skills and exploring cloud technologies**.  
+🌱 Learning **Next.js and DevOps tools**.  
+📚 Looking for **internship opportunities in full-stack development**.  
 📩 Reach me at **[LinkedIn](https://www.linkedin.com/in/katta-manasa/)**
 
 ---
 
 ## ⚡ Tech Stack & Tools
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=ml&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🏆 GitHub Stats & Streaks
+## 🏆 GitHub Stats & Contributions
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=katta-manasa&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=katta-manasa&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-🌱 [**EarthVision**](https://github.com/katta-manasa/earthvision) - AI-powered platform for agriculture insights 📡🌾  
-👁 [**EyeHealth**](https://github.com/katta-manasa/eyehealth) - AI-driven eye disease detection app 👨‍⚕️📊  
-🔗 [**Blockchain-Personal-Data-Marketplace**](https://github.com/katta-manasa/blockchain-marketplace) - Decentralized AI-driven privacy marketplace 🔐💰
-
----
-
-## 🔥 Hackathons & Achievements
-🎖 **Top 4 in IIT Indore Hackathon 2024** - Developed ML-based predictive models 🏆  
-🌍 **NASA Space Apps Challenge 2024** - Built a climate monitoring AI 🌎🚀  
-👩‍💻 **Virtual Internship in ML & Data Science** - Hands-on ML projects 📊  
-📜 **Patent & Paper Published for Smart Farming Tech** 📝✅
-
----
-
-## 💡 Fun Dynamic Widgets
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=katta-manasa&theme=react-dark" />
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katta-manasa&theme=radical" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=katta-manasa&theme=radical&no-bg=true" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<p align="right">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" alt="Girl Coding Animation" />
 </p>
 
 ---
