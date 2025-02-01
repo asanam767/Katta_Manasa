@@ -1,28 +1,80 @@
-<h1 align="center">Hi 👋, I'm Katta Manasa!</h1>
-<h3 align="center">A passionate Software Developer who is working on real-world problem-solving projects with the help of AI tools.</h3>
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdkdzg0Yjh4N25hMWx5ODRzeXVrb3FhajBiMHdjbWp3eXNyOGtpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
+# Hi 👋, I'm Katta Manasa!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=katta-manasa&label=Profile%20views&color=0e75b6&style=flat" alt="katta-manasa" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2C98F0&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Katta+Manasa!;Backend+Developer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on - Backend projects using Node.js, Express, and MongoDB.
-- 🌱 I prefer to implement projects using the help of tools like ChatGPT, Claude AI, DeepSeek, Perplexity, etc.
-- 📫 How to reach me: **kmanasa0402@gmail.com**
-
-## 🔗 Links
 <p align="center">
-  <a href="https://www.linkedin.com/in/katta-manasa-a43050228/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="mailto:kmanasa0402@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" height="40" style="vertical-align:top; margin:4px">
-  </a>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdkdzg0Yjh4N25hMWx5ODRzeXVrb3FhajBiMHdjbWp3eXNyOGtpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300" alt="coding animation"/>
 </p>
 
-## 📈 Contribution Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katta-manasa&theme=dark" alt="Katta Manasa's contribution streak"/>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=katta-manasa&label=Profile%20views&color=0e75b6&style=flat" alt="katta-manasa" /> 
 </p>
 
+## 👩‍💻 About Me
+
+I'm a Software Developer passionate about building scalable backend solutions and leveraging modern technologies to solve real-world problems. Currently focusing on creating robust applications using Node.js and Express, while exploring the possibilities of AI-enhanced development.
+
+```javascript
+const manasa = {
+    code: ["JavaScript", "Node.js", "Express"],
+    tools: ["MongoDB", "REST APIs", "Git"],
+    architecture: ["microservices", "MVC", "event-driven"],
+    currentFocus: "Building scalable backend solutions",
+    funFact: "I believe in using AI tools to enhance productivity, not replace creativity"
+};
+```
+
+## 🚀 What I'm Currently Working On
+
+- Developing backend systems using Node.js and Express
+- Building RESTful APIs with MongoDB integration
+- Exploring AI tools to optimize development workflow
+- Contributing to open-source projects
+
+## 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 🛠️ Projects
+
+<details>
+<summary>📱 Project Management System</summary>
+
+- **Tech Stack**: Node.js, Express, MongoDB
+- **Features**: Task tracking, Team collaboration, Real-time updates
+- **GitHub**: [Link to repo](#)
+</details>
+
+<details>
+<summary>🛒 E-commerce Backend</summary>
+
+- **Tech Stack**: Node.js, Express, MongoDB
+- **Features**: User authentication, Product management, Order processing
+- **GitHub**: [Link to repo](#)
+</details>
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katta-manasa&show_icons=true&locale=en" alt="Katta Manasa's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katta-manasa&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=katta-manasa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katta-manasa-a43050228/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmanasa0402@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/katta-manasa)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=katta-manasa&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
