@@ -4,10 +4,7 @@ I'm Katta Manasa, a passionate software engineer and developer.
 
 ## Here's a fun GIF to show my vibe:
 
-<div class="tenor-gif-embed" data-postid="16760829579653810809" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-  <a href="https://tenor.com/view/text-work-computer-working-penguin-gif-16760829579653810809">Text Work Sticker</a> from <a href="https://tenor.com/search/text-stickers">Text Stickers</a>
-</div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Text Work Sticker](https://media.tenor.com/images/5e62d045b625d8c238bb31c537ae48b6/tenor.gif)
 
 ---
 
