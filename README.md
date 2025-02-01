@@ -1,28 +1,25 @@
-# Hi, I'm Katta Manasa! 👋 <img align="right" alt="Katta Manasa" width="150px" src="https://media.tenor.com/ZT6JgOoFQyMAAAAC/text-work-computer.gif">
+# Welcome to My GitHub Profile!
 
-## 🚀 About Me
-- 🎓 3rd Year B.Tech Student
-- 💻 Backend Developer | Working with Node.js, Express, and MongoDB
-- 🏆 Participated in 5 hackathons, winning 1
-- 🌟 Passionate about building scalable backend solutions and optimizing performance
-- 🔢 Solving DSA problems to enhance my problem-solving skills and accelerate my learning
+I'm Katta Manasa, a passionate software engineer and developer.
 
-## 🛠 Tech Stack
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Other Tools:** Git, Postman, REST APIs
+## Here's a fun GIF to show my vibe:
 
-## 🚀 Hackathons & Achievements
-- 🎖️ Participated in 5 hackathons
-- 🏅 Won 1 hackathon
+<div class="tenor-gif-embed" data-postid="16760829579653810809" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+  <a href="https://tenor.com/view/text-work-computer-working-penguin-gif-16760829579653810809">Text Work Sticker</a> from <a href="https://tenor.com/search/text-stickers">Text Stickers</a>
+</div>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-## 📊 GitHub Stats
-![Manasa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=katta-manasa&show_icons=true&theme=radical)
+---
 
-## 📫 Connect with Me
-- [LeetCode](https://leetcode.com/katta-manasa)
-- [LinkedIn](https://www.linkedin.com/in/katta-manasa/)
-- [Twitter](https://twitter.com/katta_manasa)
-- [GitHub](https://github.com/katta-manasa)
+## About Me
 
-Let's build something awesome together! 🚀
+- 🔭 I’m currently working on backend projects using Node.js, Express, and MongoDB.
+- 🌱 I’m learning about AI, Web 3.0, and decentralized applications.
+- ⚡ Fun fact: I love participating in hackathons!
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com)
+- [Twitter](https://twitter.com)
+
+Feel free to explore my repositories and projects!
