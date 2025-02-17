@@ -1,3 +1,28 @@
+# 👋 Hi, I'm Katta Manasa!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2C98F0&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Katta+Manasa!;Backend+Developer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdkdzg0Yjh4N25hMWx5ODRzeXVrb3FhajBiMHdjbWp3eXNyOGtpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300" alt="coding animation"/>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=asanam767&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>
+
+## 👩‍💻 About Me
+
+I'm a passionate Software Developer who loves building scalable backend solutions using modern technologies. My current focus is on creating robust applications using **Node.js** and **Express**, while continuously exploring new tools and technologies to enhance development efficiency.
+
+```javascript
+const manasa = {
+    code: ["JavaScript", "Node.js", "Express"],
+    tools: ["MongoDB", "REST APIs", "Git"],
+    currentFocus: "Building scalable backend solutions",
+    funFact: "AI is my tool for enhancing productivity, not creativity!"
+};
+```
+
 ## 🚀 What I'm Currently Working On
 
 - Developing backend systems with Node.js and Express
