@@ -59,10 +59,6 @@ const manasa = {
 
 ## 📊 GitHub Stats
 
-![Build Status](https://img.shields.io/travis/username/repository.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asanam767&theme=tokyonight" alt="GitHub Streak" />
 </p>
